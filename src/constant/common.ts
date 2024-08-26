@@ -1,0 +1,4 @@
+export const COOKIE_KEY = {
+  WORKSHOP_TOKEN: 'WORKSHOP_TOKEN',
+  PREV_PATH: 'X-PREV-PATH',
+};
